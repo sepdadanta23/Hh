@@ -1,0 +1,6 @@
+{
+  "name": "Wolf Client",
+  "description": "A high-performance, modern Minecraft launcher with a sleek glassmorphic UI, optimized for PvP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
